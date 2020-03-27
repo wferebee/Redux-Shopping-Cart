@@ -1,0 +1,70 @@
+.ProductItem {
+    display: flex;
+    margin-bottom: 15px;  
+}
+
+.ProductItemImg {
+    position: relative;
+    float: left;
+    height: 20px;
+    width: 20px;
+}
+
+.ProductItem-Info { /* seperate div just for item description, makes organizing the div a bit easier */
+    margin-top: -12px;
+    position: relative;
+    left: 10px;
+}
+
+.ProductItem-Name {
+    font-size: 2.6vh;
+    font-weight: 700;
+    width: 100%;
+    float: left;
+    clear: both;
+    padding-bottom: 0px;
+    margin-bottom: 1vh;
+}
+
+.ProductItem-Number{
+    font-size: 1.8vh;
+    font-weight: 500;
+    color: rgb(59, 59, 59);
+    margin-bottom: -1.6vh;
+}
+
+.PartNumber{
+    font-weight: 700;
+    color: black;
+    font-size: 2.1vh;
+}
+
+.ProductItem-Pricing {
+    font-size: 2.5vh;
+    color: rgb(218, 0, 0);
+    font-weight: 700;
+    margin-bottom: .9vh;
+}
+.ProductItem-Button{
+    color: black;
+    font-size: .5em;
+    width: 10vw, flex;
+    height: 30px, flex;
+    padding: .5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    font-size: .9em;
+    font-weight: 600;
+    color: rgb(48, 42, 42);
+    border-style: none;
+    cursor: pointer;
+    background: #f1cf37; 
+}
+
+hr { 
+    display: block; 
+    height: 1px;
+    border: 0; 
+    border-top: 1px solid #ccc;
+    width: 100%;
+}
