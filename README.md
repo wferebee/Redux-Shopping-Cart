@@ -13,12 +13,17 @@ https://wferebee.github.io/my-app-advance/
 * Html
 * and deployed with GitHub Pages
 
-### Running the app
+### Running the app:
 
 * Clone the repository to your computer
 * npm install - will install the dependencies
 * Or create your own react app and copy over the 'src' folder.
 * npm start - to run the program locally
+
+## Future changes:
+* Put components and their corresponding css files into their own folders just for orgainization.
+* Slim down some of the css and make the responsiveness a little cleaner.
+* Find out the exact color of yellow to use for the "add to shopping cart button" lol.
 
 ## Screenshots
 
