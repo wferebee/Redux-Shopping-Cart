@@ -3,7 +3,7 @@ https://wferebee.github.io/my-app-advance/
 
 ### This is a mock up page. When the user clicks the add to cart button, the items price and part number are logged as an object into the console.
 
-### This porject was built with:
+### This project was built with:
 * React
 * Redux
 * React-Redux
