@@ -20,6 +20,9 @@ https://wferebee.github.io/my-app-advance/
 * Or create your own react app and copy over the 'src' folder.
 * npm start - to run the program locally
 
+## Issues:
+* Upon first opening the page, the bottom "add to cart button" and bttery image are not the right size, I am looking into possible reasons for this problem. Upon first inspection, it appears it could be a rendering problem caused by windows 10 actually. Will look into further and fix asap.
+
 ## Future changes:
 * Put components and their corresponding css files into their own folders just for orgainization.
 * Slim down some of the css and make the responsiveness a little cleaner.
