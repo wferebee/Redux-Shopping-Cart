@@ -58,5 +58,5 @@
 
 &nbsp;
 &nbsp;
-### ~Object logged to the console~
+### **__Object logged to the consol__**
 ![Screenshot (87)](https://user-images.githubusercontent.com/53095806/77710796-613e9600-6fa5-11ea-89fa-f0bff7db6763.png)
