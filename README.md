@@ -3,9 +3,11 @@
 ### Live Link: 
 * https://wferebee.github.io/my-app-advance/
 ###
+###
 
 ### Info:
 * This is a mock up page. When the user clicks the add to cart button, the items price and part number are logged as an object into the console.
+###
 ###
 
 ### Technologies Used
@@ -18,6 +20,7 @@
 * Html
 * and deployed with GitHub Pages
 ###
+###
 
 ### Running the App:
 * Clone the repository to your computer
@@ -25,15 +28,18 @@
 * Or create your own react app and copy over the 'src' folder.
 * npm start - to run the program locally
 ###
+###
 
 ### Issues:
 * Upon first opening the page, the bottom "add to cart button" and battery image are not the right size, I am looking into possible reasons for this problem. Upon first inspection, it appears it could be a rendering problem caused by windows 10 actually. Will look into further and fix ASAP.
+###
 ###
 
 ### Future Changes:
 * Put components and their corresponding css files into their own folders just for orgainization.
 * Slim down some of the css and make the responsiveness a little cleaner.
 * Find out the exact color of yellow to use for the "add to shopping cart button" lol.
+###
 ###
 
 ### Screenshots:
