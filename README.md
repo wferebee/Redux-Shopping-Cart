@@ -1,9 +1,14 @@
 # ADVANCE REACT & REDUX PAGE
-********************************************************************
+
+
 ### Live Link: 
 * https://wferebee.github.io/my-app-advance/
 ###
 ###
+
+
+
+
 
 ### Info:
 * This is a mock up page. When the user clicks the add to cart button, the items price and part number are logged as an object into the console.
