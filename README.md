@@ -1,7 +1,7 @@
 # ADVANCE REACT & REDUX PAGE
 
 
-## Live Link 
+### Live Link: 
 https://wferebee.github.io/my-app-advance/
 
 ### Info:
@@ -30,15 +30,15 @@ https://wferebee.github.io/my-app-advance/
 * Upon first opening the page, the bottom "add to cart button" and battery image are not the right size, I am looking into possible reasons for this problem. Upon first inspection, it appears it could be a rendering problem caused by windows 10 actually. Will look into further and fix ASAP.
 
 
-## Future Changes:
+### Future Changes:
 * Put components and their corresponding css files into their own folders just for orgainization.
 * Slim down some of the css and make the responsiveness a little cleaner.
 * Find out the exact color of yellow to use for the "add to shopping cart button" lol.
 
 
-## Screenshots
+### Screenshots
 
 ![Screenshot (86)](https://user-images.githubusercontent.com/53095806/77710789-5d127880-6fa5-11ea-8c5e-f9460357a590.png)
 
-#### Object logged to the console
+### Object logged to the console
 ![Screenshot (87)](https://user-images.githubusercontent.com/53095806/77710796-613e9600-6fa5-11ea-89fa-f0bff7db6763.png)
