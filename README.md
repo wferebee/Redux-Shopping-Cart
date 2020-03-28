@@ -4,10 +4,11 @@
 ## Live Link 
 https://wferebee.github.io/my-app-advance/
 
-### This is a mock up page. When the user clicks the add to cart button, the items price and part number are logged as an object into the console.
+### Info:
+* This is a mock up page. When the user clicks the add to cart button, the items price and part number are logged as an object into the console.
 ***
 
-### This project was built with:
+### Technologies Used
 * React
 * Redux
 * React-Redux
@@ -18,7 +19,7 @@ https://wferebee.github.io/my-app-advance/
 * and deployed with GitHub Pages
 ***
 
-### Running the app:
+### Running the App:
 
 * Clone the repository to your computer
 * npm install - will install the dependencies
@@ -26,11 +27,11 @@ https://wferebee.github.io/my-app-advance/
 * npm start - to run the program locally
 ***
 
-## Issues:
+### Issues:
 * Upon first opening the page, the bottom "add to cart button" and battery image are not the right size, I am looking into possible reasons for this problem. Upon first inspection, it appears it could be a rendering problem caused by windows 10 actually. Will look into further and fix ASAP.
 
 
-## Future changes:
+## Future Changes:
 * Put components and their corresponding css files into their own folders just for orgainization.
 * Slim down some of the css and make the responsiveness a little cleaner.
 * Find out the exact color of yellow to use for the "add to shopping cart button" lol.
